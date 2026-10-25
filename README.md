@@ -2,7 +2,7 @@
 
 A small todo app that uses [Neon](https://neon.com) (Postgres), [Drizzle ORM](https://orm.drizzle.team), and [Next.js](https://nextjs.org) App Router with Server Actions.
 
-Watch the video: [Neon Getting Started](https://www.youtube.com/watch?v=XtMiMnX0hDg)
+Live project: [https://neon-app-seven.vercel.app/](https://neon-app-seven.vercel.app/)
 
 ## Prerequisites
 
